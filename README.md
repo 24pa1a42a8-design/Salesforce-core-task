@@ -1,30 +1,19 @@
-Business Flow
-
-1. Inquiry – Product/service gurinchi information adige new person.
-Example: Social media lo message pampina person.
-
-
-2. Prospect – Interested customer details collect chesi save chestaru.
-Example: Name, mobile number, email collect cheyadam.
-
-
-3. Deal – Sales process start ayi purchase discussion jaruguthundi.
-Example: Customer price and features gurinchi discuss chestadu.
-
-
-4. Client – Product/service purchase complete ayyaka permanent customer avutadu.
-Example: Order confirm chesi payment complete chesina customer
-Real-Life Mapping Example – Hospital Appointment Flow
-Lead
-Patient hospital services gurinchi enquiry chestadu.
-Example: Phone call, website enquiry, or reception daggara information adagadam.
+Prospect – A person who shows interest in a product or service.
+Example: A visitor filling out an enquiry form on a website.
+Registered Contact – Customer information is stored in the system.
+Example: Saving the customer’s name, phone number, and email address.
+Sales Deal – A possible business deal or sales process begins.
+Example: The customer discusses pricing and product details.
+Client – The person becomes a customer after completing the purchase.
+Example: Buying the product or subscribing to the service successfully.
+Lead A student shows interest in joining the college by making an enquiry.
+Example: The student visits the college website and asks for admission details or fills out an enquiry form.
 Contact
-Patient personal details hospital system lo save chestaru.
-Example: Name, age, mobile number, address, and medical details register cheyadam.
+The student’s personal information is collected and stored in the college database.
+Example: The student submits details such as name, phone number, email address, and educational qualifications.
 Opportunity
-Treatment or consultation process start avuthundi.
-Example: Doctor appointment booking, test recommendations, treatment discussion.
-Customer
-Patient treatment complete chesi payment chestadu.
-Example: Consultation, surgery, or medical service use chesi final bill pay cheyadam.
-
+The admission process officially begins, creating a chance for the college to convert the student into an admitted candidate.
+Example: The student attends counseling, submits certificates, discusses course options, and proceeds with the admission process.
+Customer (Admitted Student)
+The student completes the admission by paying the fees and officially joins the college.
+Example: After fee payment and document verification, the student receives confirmation of admission and becomes a college student.
